@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Arunabh
+   last: Arnav
+email: aa5186@nyu.edu
+leaderboard: ArunabhArnav
